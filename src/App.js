@@ -5,7 +5,7 @@ import Railtors from './components/Railtors.component';
 import Features from './components/features/Features.component';
 import StoryPictures from './components/StoryPictures.component';
 import StoryContent from './components/StoryContent.component ';
-import Homes from './components/Homes.component';
+import Homes from './components/homes/Homes.component';
 import Gallery from './components/Gallery.component';
 import Footer from './components/Footer.component';
 
