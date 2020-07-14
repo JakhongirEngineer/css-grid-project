@@ -4,7 +4,7 @@ import React from "react";
 const Sidebar = () => {
     return(
       <div className="sidebar">
-        sidebar
+        <div className="sidebar__icon">&#9776;</div>
       </div>
 
     )
