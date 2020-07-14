@@ -4,7 +4,30 @@
     grid-column: center-start/center-end;
 
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
     grid-template-rows: auto auto;
+    align-items: start;
     grid-gap: 6rem;
+}
+
+.feature{
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    align-items: start;
+    grid-gap: 1.5rem 2.5rem;
+
+
+    &__icon{
+        width: 4rem;
+        height: 4rem;
+        grid-row: 1/span 2;
+
+        fill: $color-primary;
+        justify-self: center;
+        align-self: start;
+    }
+
+    &__text{
+        font-size: 1.7rem;
+    }
 }
