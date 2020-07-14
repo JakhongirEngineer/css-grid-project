@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/css-grid-project/static/css/main.95df502d.chunk.css",
-    "main.js": "/css-grid-project/static/js/main.448d3e25.chunk.js",
-    "main.js.map": "/css-grid-project/static/js/main.448d3e25.chunk.js.map",
+    "main.css": "/css-grid-project/static/css/main.84ff0243.chunk.css",
+    "main.js": "/css-grid-project/static/js/main.b7537028.chunk.js",
+    "main.js.map": "/css-grid-project/static/js/main.b7537028.chunk.js.map",
     "runtime-main.js": "/css-grid-project/static/js/runtime-main.949847d9.js",
     "runtime-main.js.map": "/css-grid-project/static/js/runtime-main.949847d9.js.map",
-    "static/js/2.9e5d0260.chunk.js": "/css-grid-project/static/js/2.9e5d0260.chunk.js",
-    "static/js/2.9e5d0260.chunk.js.map": "/css-grid-project/static/js/2.9e5d0260.chunk.js.map",
+    "static/js/2.adba1506.chunk.js": "/css-grid-project/static/js/2.adba1506.chunk.js",
+    "static/js/2.adba1506.chunk.js.map": "/css-grid-project/static/js/2.adba1506.chunk.js.map",
     "index.html": "/css-grid-project/index.html",
-    "precache-manifest.58d643c2e5a346e0fe2af6c0a125c5db.js": "/css-grid-project/precache-manifest.58d643c2e5a346e0fe2af6c0a125c5db.js",
+    "precache-manifest.2b47737740ae40e4f619b80747107bdc.js": "/css-grid-project/precache-manifest.2b47737740ae40e4f619b80747107bdc.js",
     "service-worker.js": "/css-grid-project/service-worker.js",
-    "static/css/main.95df502d.chunk.css.map": "/css-grid-project/static/css/main.95df502d.chunk.css.map",
-    "static/js/2.9e5d0260.chunk.js.LICENSE.txt": "/css-grid-project/static/js/2.9e5d0260.chunk.js.LICENSE.txt"
+    "static/css/main.84ff0243.chunk.css.map": "/css-grid-project/static/css/main.84ff0243.chunk.css.map",
+    "static/js/2.adba1506.chunk.js.LICENSE.txt": "/css-grid-project/static/js/2.adba1506.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/css-grid-project/static/media/back.f250e126.jpg",
+    "static/media/house-1.jpeg": "/css-grid-project/static/media/house-1.5120ad22.jpeg",
+    "static/media/house-2.jpeg": "/css-grid-project/static/media/house-2.ed12ff11.jpeg",
+    "static/media/house-3.jpeg": "/css-grid-project/static/media/house-3.521c065d.jpeg",
+    "static/media/house-4.jpeg": "/css-grid-project/static/media/house-4.83ee1d1e.jpeg",
+    "static/media/house-5.jpeg": "/css-grid-project/static/media/house-5.721effb4.jpeg",
+    "static/media/house-6.jpeg": "/css-grid-project/static/media/house-6.ee021f8a.jpeg",
+    "static/media/sprite.svg": "/css-grid-project/static/media/sprite.d666b9f5.svg",
+    "static/media/story-1.jpeg": "/css-grid-project/static/media/story-1.24268b24.jpeg",
+    "static/media/story-2.jpeg": "/css-grid-project/static/media/story-2.915f2bd1.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.949847d9.js",
-    "static/js/2.9e5d0260.chunk.js",
-    "static/css/main.95df502d.chunk.css",
-    "static/js/main.448d3e25.chunk.js"
+    "static/js/2.adba1506.chunk.js",
+    "static/css/main.84ff0243.chunk.css",
+    "static/js/main.b7537028.chunk.js"
   ]
 }
