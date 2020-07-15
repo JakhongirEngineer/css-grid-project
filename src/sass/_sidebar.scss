@@ -8,6 +8,12 @@
     justify-content: start;
     align-items: center;
 
+    @media only screen and (max-width:$bp-medium){
+        grid-column: 1/-1;
+        grid-row: 1/span 1;
+        flex-direction: row;
+    }
+
 
 
     &__icon{
