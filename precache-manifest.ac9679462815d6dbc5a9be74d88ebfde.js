@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2952f57a8fb4947abaa15810d3d1646a",
+    "revision": "07c420c5ca6a03eae782e959516d498f",
     "url": "/css-grid-project/index.html"
   },
   {
-    "revision": "3cd456fed0a903500171",
-    "url": "/css-grid-project/static/css/main.7e525eaa.chunk.css"
+    "revision": "d05bf645abfb2faa3141",
+    "url": "/css-grid-project/static/css/main.2dfcd452.chunk.css"
   },
   {
     "revision": "12cc4ca00075632eb6b8",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css-grid-project/static/js/2.6d1ab1f1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3cd456fed0a903500171",
+    "revision": "d05bf645abfb2faa3141",
     "url": "/css-grid-project/static/js/main.9ed2f34e.chunk.js"
   },
   {

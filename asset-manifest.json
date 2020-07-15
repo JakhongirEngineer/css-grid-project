@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/css-grid-project/static/css/main.7e525eaa.chunk.css",
+    "main.css": "/css-grid-project/static/css/main.2dfcd452.chunk.css",
     "main.js": "/css-grid-project/static/js/main.9ed2f34e.chunk.js",
     "main.js.map": "/css-grid-project/static/js/main.9ed2f34e.chunk.js.map",
     "runtime-main.js": "/css-grid-project/static/js/runtime-main.949847d9.js",
@@ -8,9 +8,9 @@
     "static/js/2.6d1ab1f1.chunk.js": "/css-grid-project/static/js/2.6d1ab1f1.chunk.js",
     "static/js/2.6d1ab1f1.chunk.js.map": "/css-grid-project/static/js/2.6d1ab1f1.chunk.js.map",
     "index.html": "/css-grid-project/index.html",
-    "precache-manifest.e0e532dbec5fc264c4d97662a8e64276.js": "/css-grid-project/precache-manifest.e0e532dbec5fc264c4d97662a8e64276.js",
+    "precache-manifest.ac9679462815d6dbc5a9be74d88ebfde.js": "/css-grid-project/precache-manifest.ac9679462815d6dbc5a9be74d88ebfde.js",
     "service-worker.js": "/css-grid-project/service-worker.js",
-    "static/css/main.7e525eaa.chunk.css.map": "/css-grid-project/static/css/main.7e525eaa.chunk.css.map",
+    "static/css/main.2dfcd452.chunk.css.map": "/css-grid-project/static/css/main.2dfcd452.chunk.css.map",
     "static/js/2.6d1ab1f1.chunk.js.LICENSE.txt": "/css-grid-project/static/js/2.6d1ab1f1.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/css-grid-project/static/media/hero.d11b666f.jpeg",
     "static/media/gal-1.jpeg": "/css-grid-project/static/media/gal-1.581fc6ad.jpeg",
@@ -47,7 +47,7 @@
   "entrypoints": [
     "static/js/runtime-main.949847d9.js",
     "static/js/2.6d1ab1f1.chunk.js",
-    "static/css/main.7e525eaa.chunk.css",
+    "static/css/main.2dfcd452.chunk.css",
     "static/js/main.9ed2f34e.chunk.js"
   ]
 }
